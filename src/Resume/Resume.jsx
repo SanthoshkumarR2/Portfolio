@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Resume() {
-  const resumeLink = 'https://example.com/your-resume.pdf'; // Replace with your actual resume link
+  const resumeLink = 'https://drive.google.com/file/d/1jWb-NkeK7XvCk6GX5dlx92-y60yNfLT3/view?usp=drive_link'; // Replace with your actual resume link
 
   const handleDownloadClick = () => {
     window.open(resumeLink, '_blank');
