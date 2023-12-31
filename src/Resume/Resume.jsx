@@ -22,12 +22,12 @@ function Resume() {
                   </div>
 
                   <div className="row">
-                    <div className="col-lg-12">
-                      <div className="card" id='card' style={{ width: "18rem" }}>
+                    <div className="col-lg-12 p-3">
+                      <div className="card" id='card' style={{ width: "16rem" }}>
                         {/* Replace the src attribute with the path to your image */}
-                        <img src="" className="card-img-top" alt="Santhosh Resume" />
+                        <img src="https://t4.ftcdn.net/jpg/00/65/77/27/360_F_65772719_A1UV5kLi5nCEWI0BNLLiFaBPEkUbv5Fv.jpg" className="card-img-top" alt="Santhosh Resume" />
                         <div className="card-body d-flex justify-content-center">
-                          <button className='btn btn-success' onClick={handleDownloadClick}>
+                          <button className='btn btn-success ' onClick={handleDownloadClick}>
                             Download
                           </button>
                         </div>

@@ -39,7 +39,7 @@ function Project() {
                           <div
                             className="card p-3"
                             id="card"
-                            style={{ width: "16rem" }}
+                            style={{ width: "16rem"}}
                           >
                             <img
                               src="https://santhosh-social-media-backend.vercel.app/assets/info4.jpg"
@@ -50,8 +50,7 @@ function Project() {
                               <h5 className="card-title">Social Media App</h5>
                               <p className="card-text">
                                 It is a Social Media App which includes Login,
-                                Register, Post, Likes and Comments likes an
-                                Instagram named as SantaGram
+                                Register, Post, Likes and Comments named as SantaGram
                               </p>
                               <button className="btn btn-outline-dark" onClick={() => openLink('https://santhosh-socialmedia.vercel.app')} >
                                 Live
@@ -68,7 +67,7 @@ function Project() {
                           <div
                             className="card p-3"
                             id="card"
-                            style={{ width: "16rem" }}
+                            style={{ width: "16rem"}}
                           >
                             <img
                               src="https://www.pizzaah.com/images/slider-2.jpg"
@@ -79,8 +78,7 @@ function Project() {
                               <h5 className="card-title">Pizza Delivery App</h5>
                               <p className="card-text">
                                 It's a Pizza Delivery App which includes Login,
-                                Register, Order, Admin Dashboard and also
-                                Payment method available.
+                                Register, Order, Admin Dashboard and Payment method also available.
                               </p>
                               <button className="btn btn-outline-dark" onClick={() => openLink('https://santhosh-pizza-delivery.vercel.app/')} >
                                 Live
@@ -99,7 +97,7 @@ function Project() {
                             style={{ width: "16rem" }}
                           >
                             <img
-                              src=""
+                              src="https://santhosh-pizzas.netlify.app/static/media/san.3f49af824644098c3241.png"
                               alt="Santhosh Url's"
                               className="card-img-top shadow bg-white rounded"
                             />
@@ -111,10 +109,10 @@ function Project() {
                                 It's a URL Shortner App which Converting Longer
                                 Url to Shorter Url.
                               </p>
-                              <button className="btn btn-outline-dark">
+                              <button className="btn btn-outline-dark" onClick={() => openLink('https://santhosh-url-shortner.vercel.app/')} >
                                 Live
                               </button>
-                              <button className="btn btn-outline-dark">
+                              <button className="btn btn-outline-dark" onClick={() => openLink('https://github.com/SanthoshkumarR2/URL-Shortner.git')} >
                                 Github
                               </button>
                             </div>
