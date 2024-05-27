@@ -12,7 +12,7 @@ function Dock() {
             <section id="hero" className="d-flex flex-column justify-content-center align-items-center">
                 <div className="hero-container ms-3">
                     <h1>Santhosh</h1>
-                    <p> <img src={"https://readme-typing-svg.herokuapp.com/?size=20&font=Edu+VIC+WA+NT+Beginner&duration=6000&color=ffffff&size=32&center=true&vCenter=true&width=380&height=50&lines=I'm+Full-StackWeb+Developer"} alt="text" /></p>
+                    <p> <img src={"https://readme-typing-svg.herokuapp.com/?size=20&font=Edu+VIC+WA+NT+Beginner&duration=6000&color=ffffff&size=32&center=true&vCenter=true&width=380&height=50&lines=I'm+a+Full-StackWeb+Developer"} alt="text" /></p>
                 </div>
             </section>
             {/* <!-- End Hero --> */}
