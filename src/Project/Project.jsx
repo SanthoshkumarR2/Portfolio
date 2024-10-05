@@ -34,7 +34,7 @@ function Project() {
                           <h5 className="card-title">Social Media</h5>
                           <p className="card-text">
                             It is a Social Media App which includes Login,
-                            Register, Post, Likes and Comments named as SantaGram
+                            Register, Post, Likes and Comments.
                           </p>
                           <button className="btn btn-outline-dark" onClick={() => openLink('https://santhosh-socialmedia.vercel.app')}>
                             Live
@@ -57,7 +57,7 @@ function Project() {
                           <h5 className="card-title">Pizza Delivery</h5>
                           <p className="card-text">
                             It's a Pizza Delivery App which includes Login,
-                            Register, Order, Admin and Payment method also available.
+                            Register, Order, Admin and Payment.
                           </p>
                           <button className="btn btn-outline-dark" onClick={() => openLink('https://santhosh-pizza-delivery.vercel.app/')}>
                             Live
@@ -81,7 +81,7 @@ function Project() {
                             Chat App
                           </h5>
                           <p className="card-text">
-                            It's a Chat App like User can use it as Real-time Messaging Conversation with Other Users.
+                            It's a Chat App like User can use it as Real-time Messaging with Others.
                           </p>
                           <button className="btn btn-outline-dark" onClick={() => openLink('https://santhosh-chat-app.onrender.com')}>
                             Live
@@ -103,7 +103,7 @@ function Project() {
                         <div className="card-body" id="card-body">
                           <h5 className="card-title">Blog App</h5>
                           <p className="card-text">
-                          It's a Blog App which is like User can upload their blog and aslo view others uploaded blogs.
+                          It's a Blog App which is like User can upload their blog and aslo view others blogs.
                           </p>
                           <button className="btn btn-outline-dark" onClick={() => openLink('https://santhosh-blogs-app.vercel.app')}>
                             Live
